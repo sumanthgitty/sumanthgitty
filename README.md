@@ -8,7 +8,7 @@ Currently, I'm exploring various DevOps tools and methodologies to enhance my sk
 
 ## 🌱 My Expertise
 
-- **DevOps:** Proficient in CI/CD, containerization (Docker), orchestration (Kubernetes), and Infrastructure as Code (Terraform).
+- **DevOps:** Proficient in CI/CD, containerization (Docker), orchestration (Kubernetes Certified), and Infrastructure as Code (Terraform).
 - **Cloud:** AWS Certified Cloud Practitioner with hands-on experience in cloud services and deployment.
 - **Automation:** configuration management (Ansible).
 - **Version Control:** Experienced in Git and GitHub for efficient code management.
