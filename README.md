@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sumanth, a passionate DevOps enthusiast actively seeking new opportunities in the field. With a strong foundation in cloud computing, automation, and CI/CD practices, contianers and so on. I'm excited to contribute to cutting-edge projects and drive efficient software delivery.
+I'm Sumanth, a passionate DevOps enthusiast actively seeking new opportunities in the field. With a strong foundation in cloud computing, automation, and CI/CD practices, containers and so on. I'm excited to contribute to cutting-edge projects and drive efficient software delivery.
 
 ## What I'm Working On
 
