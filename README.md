@@ -10,7 +10,7 @@ Currently, I'm exploring various DevOps tools and methodologies to enhance my sk
 
 I'm open to roles in DevOps where I can help improve workflows and support smooth software delivery. Let's connect!
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sumanth1996)
 - [Email](mailto:sumanthsagar07@gmail.com)
