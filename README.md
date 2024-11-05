@@ -4,7 +4,7 @@ I'm Sumanth, a passionate DevOps enthusiast actively seeking new opportunities i
 
 ## What I'm Working On
 
-Currently, I'm exploring various DevOps tools and methodologies to enhance my skills and knowledge. I'm also actively looking for job opportunities that align with my passion for streamlining development processes and promoting collaboration across teams.
+Currently, I'm exploring various DevOps tools and methodologies to enhance my skills and knowledge. I have experience with Jenkins, Docker, Kubernetes, Git, GitHub, AWS, Bash, Linux, and more, with a passion for streamlining development processes and promoting collaboration across teams.
 
 ## Open to Opportunities
 
